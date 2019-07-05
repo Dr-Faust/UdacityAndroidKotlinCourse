@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Alex Podolian</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="gray_eye">Gray eye</string>
+
+    <string name="bio">Add a ScrollView with a TextView showing information about yourself to the layout.\n
+        Style the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen.\n
+        Add some spacing between the lines using the lineSpacingMultiplier property to the TextView.\n
+        The "Extract dimension resource" menu option is not available for this attribute, so you will have to add it to dimens.xml by hand.\n
+        If you want to start at this step, you can download this exercise code from: Step.03-Exercise-Add-ScrollView.\n
+        You will find plenty of //TODO comments to help you complete this exercise, and if you get stuck, go back and watch the video again.\n
+        Once you’re done, you can check your solution against the solution we’ve provided here: Step.03-Solution-Add-ScrollView or, using this git diff.</string>
+
 </resources>
