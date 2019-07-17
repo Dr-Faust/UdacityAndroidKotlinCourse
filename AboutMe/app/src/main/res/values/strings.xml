@@ -11,5 +11,7 @@
         If you want to start at this step, you can download this exercise code from: Step.03-Exercise-Add-ScrollView.\n
         You will find plenty of //TODO comments to help you complete this exercise, and if you get stuck, go back and watch the video again.\n
         Once you’re done, you can check your solution against the solution we’ve provided here: Step.03-Solution-Add-ScrollView or, using this git diff.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 
 </resources>
